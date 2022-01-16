@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.menu-top{
+    width: 100%;
+    height: 30px;
+    background-color:blue ;
+    display: flex;
+
+}
+.menu-top .trai {
+    width: 38%;
+}
+.menu-top .trai ul li{
+    display: inline;
+    line-height: 30px;
+    padding: 10px;
+    font-size:15px ;
+    color: white;
+    font-weight: bold;
+
+}
+.menu-top .trai ul li:hover {
+    color: red;
+}
+.menu-top .phai {
+    width: 60%;
+    text-align: right;
+    display: inline;
+    line-height: 30px;
+}
+.menu-top .phai button {
+    border-radius:10px ;
+    font-size: 13px;
+    background:red ;
+    color: white;
+}
+.menu-top .phai .chu-phai{
+    display: inline;
+    font-size: 15px;
+    padding-left: 10px;
+}
+.menu-top .phai i {
+    color: antiquewhite;
+    margin-left: 5px;
+}
+.menu-top .phai .chu-phai span {
+    padding: 2px;
+    margin-left: 5px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+/*menu*/
+.slide {
+    width: 100%;
+    height: 150px;
+
+    display: flex;
+}
+.slide img {
+    width: 150px;
+    height: 150px;
+
+}
+.slide  .giua {
+    width: 50%;
+    text-align: center;
+    line-height: 35px;
+    padding-top: 50px;
+    font-size: 30px;
+}
+.slide .giu
+.slide .diachi {
+    width: 40%;
+}
+.slide .diachi form  {
+    width: 100%;
+    margin-left: 50%;
+    padding-top: 40px;
+}
+/*menu*/
+
+.menuline {
+    width: 100%;
+    height: 40px;
+    background-color: black;
+
+}
+.menuline >ul {
+    display: flex;
+    list-style: none;
+    margin: auto;
+
+}
+.menuline > ul > li > a {
+    text-decoration: none;
+    padding-left: 50px;
+    font-size: 30px;
+    line-height: 40px;
+    color: white;
+
+}
+.item1 {
+    position: relative;
+    height: 40px;
+
+}
+.item1 a {
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 50px;
+    line-height: 40px;
+    color: white;
+}
+.item1 ul {
+    list-style: none;
+    padding: 4px ;
+    background-color: black;
+    margin-left: 40px;
+    margin-top:5px ;
+    opacity: 0;
+
+}
+.item1:hover ul {
+    opacity: 1;
+
+}
+.item1:hover li {
+    background: greenyellow;
+}
+.item1:hover a {
+
+}
+.menuline:hover {
+    background: greenyellow;
+}
+/*dfdfđs*/
+.boder{
+    border: 3px solid greenyellow;
+}
+
+.content {
+    width: 100%;
+    height: 40px;
+    background: #cccccc;
+}
+.content-tren {
+    display:flex ;
+    width: 100%;
+
+}
+.content-tren .trai {
+    width: 50%;
+
+}
+.content-tren .trai h2{
+    line-height: 40px;
+}
+.content-tren .trai hr{
+    width: 200px;
+    height: 5px;
+    position: relative;
+    bottom: 3px;
+    background-color: greenyellow;
+}
+.content .content-tren .phai{
+    width: 50%;
+    text-align: right;
+    line-height: 40px;
+
+}
+.content-tren .phai .span {
+
+}
+
+/*contwbt máy*/
+
+.noidung {
+    width: 100%;
+    height: 600px;
+    padding-top:30px ;
+
+}
+
+.noidung .bo {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 600px;
+}
+.noidung .bo .con {
+    width: 24%;
+    height: 300px;
+}
+.noidung .bo .con .anh img {
+    width: 300px;
+    height: 200px;
+}
+.tenmay span {
+    color: red;
+    font-weight: bold;
+}
+.gach b {
+    padding: 3px;
+    border: 1px ;
+    background-color: greenyellow;
+}
+.gach c{
+    color: black;
+    text-decoration: line-through;
+
+}
+
+
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79d51b38-7a7c-47da-8984-92e503f5a092" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="23UUFoIQanT8a7dFEB3pGR4xcKe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="E:/fornd=end deverlop" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79d51b38-7a7c-47da-8984-92e503f5a092" name="Default Changelist" comment="" />
+      <created>1641788057089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641788057089</updated>
+      <workItem from="1641788059505" duration="1211000" />
+      <workItem from="1641997156598" duration="19000" />
+      <workItem from="1642255085235" duration="109000" />
+      <workItem from="1642316772293" duration="2012000" />
+      <workItem from="1642327677492" duration="4692000" />
+      <workItem from="1642338094307" duration="3476000" />
+      <workItem from="1642342035275" duration="2902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="273" key="FileChooserDialogImpl" timestamp="1641997173825">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="710" y="273" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1641997173825" />
+    <state x="669" y="138" key="search.everywhere.popup" timestamp="1642255119712">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="669" y="138" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1642255119712" />
+  </component>
+</project>
